@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45ewertton&layout=compact&bg_color=ffffff&text_color=333333">
 <!--
 **45ewertton/45ewertton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
