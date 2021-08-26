@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ewertton Silva 😎✌
+## Olá! Eu sou o Ewertton Silva 😎
 
 - 🔭 Estou buscando uma oportunidade na área de desenvolvimento
 - 💻 Formado em Sistemas de Informação
