@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ewertton Silva 😎✌
 
 - 🔭 Estou buscando uma oportunidade na área de desenvolvimento
-- 💻 Formado em Sistemas de informação
+- 💻 Formado em Sistemas de Informação
 - 📚 Estudando Python
 - 🚀 "Pra cima!"
 - 🎮 Gamer
