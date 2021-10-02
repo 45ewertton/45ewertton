@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ewertton Silva 😎
 
-- 🔭 Buscando evoluir na área de desenvolvimento
+- 🔭 Buscando sempre evoluir na área de desenvolvimento
 - 💻 Formado em Sistemas de Informação
 - 📚 Estudando Python/Django
 - 🚀 "Pra cima!"
